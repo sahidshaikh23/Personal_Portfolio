@@ -155,7 +155,7 @@
     width: 100%;
     transform: translate(-100%, 0);
     height: 100vh;
-    background-color: #fff;
+    background-color: #394867;
     justify-content: flex-start;
     flex-direction: column;
     display: flex;
@@ -203,7 +203,7 @@
     background: transparent;
   }
   .nav-container {
-    background: #8f8f8f1c;
+    background: #394867;
   }
 }
 @media screen and (max-width: 580px) {
@@ -220,7 +220,7 @@
     margin: 10px;
   }
   .nav {
-    background-color: #fff;
+    background-color: #394867;
     height: 82px;
   }
   #navbar {
