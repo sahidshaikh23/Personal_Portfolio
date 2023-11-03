@@ -51,9 +51,7 @@ function Frontpage() {
               <a href="mailto:sahidshaikh23042003@gmail.com">
                 <button className="btn primary-btn">Hire Me</button>
               </a>
-              <a href="../Sahid_resume.pdf" download>
-                <button className="btn highlighted-btn">Get Resume</button>
-              </a>
+            
             </div>
           </div>
           <div className="profile-picture">
