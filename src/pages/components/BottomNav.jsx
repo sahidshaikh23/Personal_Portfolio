@@ -65,7 +65,7 @@ const BottomNav = () => {
           <div className="bot_nav_right">
             <div className="bot_right_header" id="hire">
               <h3>Contact Info</h3>
-              <a className='email-link' href="mailto:sahidshaikh23042003@gmail.com"> sahidshiakh23042003@gmail.com</a>
+              <a className='email-link' href="mailto:sahidshaikh23042003@gmail.com"> sahidshaikh23042003@gmail.com</a>
               <a href="tel:+91-7028040051" className='email-link'>
                 <p>+91-70XXXX0051</p>
               </a>
