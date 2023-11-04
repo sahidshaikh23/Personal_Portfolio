@@ -149,7 +149,7 @@
 .profile-picture-background {
   height: 90%;
   width: 90%;
-  /* background-image: url("demo.png"); */
+  background-image: url("/src/Image/a.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
