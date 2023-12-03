@@ -9,6 +9,8 @@ import Navbar from './pages/Navbar';
 import Footer from './pages/Footer';
 
 
+
+
 const App = () => {
   return (
     <>

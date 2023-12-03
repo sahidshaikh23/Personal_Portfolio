@@ -36,7 +36,7 @@ const my_navbar_data = [
     nav_link: '/#my-work',
     navbar_name: 'Projects and Experience',
     nav__icon: RxDashboard,
-  },
+  }
 ];
 
 export default my_navbar_data;
